@@ -1,0 +1,10 @@
+.column{
+    width:33.33%;
+    float: left;
+}
+img{
+    float:center;
+    font-size:100%;
+    border-radius: 50px;
+    border-style:outset;
+}
