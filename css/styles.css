@@ -8,3 +8,16 @@ img{
     border-radius: 50px;
     border-style:outset;
 }
+body{
+    color: rgb(235, 148, 17);
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size:70px;
+    font-style: initial;    
+}
+h2{
+    text-align: center;
+    
+}
